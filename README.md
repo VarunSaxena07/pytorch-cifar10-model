@@ -59,8 +59,7 @@ pip install -r requirements.txt
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/
-<your-username>/<repo-name>.git
+git clone https://github.com/VarunSaxena07/pytorch-cifar10-model
 ```
 
 
