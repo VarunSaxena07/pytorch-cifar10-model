@@ -31,6 +31,7 @@ ENV/
 # ------------------------
 *.pt
 *.pth
+!best_model.pth
 *.ckpt
 runs/
 logs/
