@@ -21,6 +21,11 @@ transform = transforms.Compose([
     transforms.Resize((32,32)),
     transforms.ToTensor()
 ])
+st.set_page_config(
+    page_title="CIFAR-10 Image Classifier",
+    page_icon="🧠",
+    layout="centered"
+)
 st.sidebar.title("About this Project")
 
 st.sidebar.info(

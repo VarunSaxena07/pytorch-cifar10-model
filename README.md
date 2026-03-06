@@ -1,3 +1,5 @@
+## LIVE APP LINK :-https://image-classifier-cifar10.streamlit.app/
+
 # CIFAR-10 Image Classification using CNN (PyTorch)
 
 A clean and simple Convolutional Neural Network built using **PyTorch** to classify images from the **CIFAR-10** dataset.  
